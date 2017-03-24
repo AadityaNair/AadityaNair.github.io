@@ -14,13 +14,11 @@ baseurl:          /
 
 author:
   name:           'Aaditya M Nair'
-  url:            https://twitter.com/mdo
 
 paginate:         5
 
-# Custom vars
-version:          2.1.0
 gems: [jekyll-paginate]
 
 github:
   repo:           https://github.com/AadityaNair
+linkedin:         https://www.linkedin.com/in/aadityanair/
