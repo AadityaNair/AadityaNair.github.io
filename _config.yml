@@ -6,14 +6,14 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Nair
+tagline:          'The Blog of Nair'
+description:      'My experience as a part-time sysadmin and other stuff.'
+url:              https://aadityanair.ml
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
+  name:           'Aaditya M Nair'
   url:            https://twitter.com/mdo
 
 paginate:         5
@@ -23,4 +23,4 @@ version:          2.1.0
 gems: [jekyll-paginate]
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/AadityaNair
