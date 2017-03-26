@@ -1,30 +1,33 @@
 ---
 layout: page
-title: About
+title: Aaditya M Nair
+sidebar_name: About Me
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<p></p>
+You already seem to know my name (P.S. _look above_), so we are done with that. Now let's talk buisness.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Who am I?
+I am a 23 year old guy born and raised in Bhilai. Currently I am at my college in Hyderabad. Oh yeah, both of those places are in India.
 
-There are currently two themes built on Poole:
+## What am I doing?
+I am pursuing a dual-degree at [IIIT-Hyderabad]. That means that at the end of my 5 year course, I will recieve both
+aMasters and a Bachelors in Computer Science. \\
+As it turns out, my MS is through research, which means that, to get my degree, I have to contribute something *significant* (usually in the form of a research paper) to human knowledge.
+To that end, I am working under [Dr. Lalitha Vadlamani] towards optimising MapReduce. 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+That was my day job. By night, I am a sysadmin for this institute. It involves our team managing a bunch of our infrastructure
+like mail servers, proxy, local websites, etc. On an average day, we serve about 3000 people. It is a fun job.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I have also taken an interest on Machine Learning and have been doing some courses in text processing.
 
-## Setup
+## What will you find here?
+This website will mostly be a knowledge base for whatever I learn or am learning at the moment. A lot will just be small snippets of
+interesting code and a small number of extensive posts on some common topics.
 
-Some fun facts about the setup of this project include:
+Or it will just contain my opinions and/or cat photos. Who the hell knows?
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+[IIIT-Hyderabad]: https://iiit.ac.in
+[Dr. Lalitha Vadlamani]: https://faculty.iiit.ac.in/~lalitha.v/
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
-Thanks for reading!
