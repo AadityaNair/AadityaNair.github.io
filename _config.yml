@@ -17,7 +17,8 @@ author:
 
 paginate:         5
 
-gems: [jekyll-paginate]
+gems: 
+    - jekyll-paginate
 
 github:
   repo:           https://github.com/AadityaNair
