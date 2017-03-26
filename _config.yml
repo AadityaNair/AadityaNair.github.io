@@ -19,6 +19,8 @@ paginate:         5
 
 gems: 
     - jekyll-paginate
+    - jekyll-sitemap
+    - jekyll-seo-tag
 
 github:
   repo:           https://github.com/AadityaNair
