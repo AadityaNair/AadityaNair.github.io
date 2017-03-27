@@ -2,6 +2,7 @@
 layout: page
 title: Aaditya M Nair
 sidebar_name: About Me
+permalink: /about/
 ---
 
 <p></p>
