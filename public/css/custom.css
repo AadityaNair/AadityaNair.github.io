@@ -1,11 +1,10 @@
 #show-comments{
-    /*background-color: cyan;*/
     border: 0.01rem solid gray;
     margin: 0 auto;
     font-size: 1.5rem;
     text-align: center;
-    /*border-radius:0.55rem;*/
     padding-left: 0.5rem;
     padding-right: 0.5rem;
     display: table;
+    margin-bottom: 1rem;
 }
