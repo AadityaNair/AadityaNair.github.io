@@ -9,3 +9,8 @@
     margin-bottom: 1rem;
     cursor: pointer;
 }
+
+#self-img{
+    border-radius: 50%;
+    width: 100%;
+}
