@@ -14,3 +14,15 @@
     border-radius: 50%;
     width: 100%;
 }
+
+.tags{
+   text-transform: capitalize; 
+   background: gray;
+   color: white;
+   text-align: center;
+   padding-left:0.2rem;
+   padding-right: 0.2rem;
+   display: inline-block;
+   border-radius: 1px;
+   //do something about these specific values
+}
