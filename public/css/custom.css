@@ -17,12 +17,13 @@
 
 .tags{
    text-transform: capitalize; 
-   background: gray;
-   color: white;
+   background: white;
+   color: #268bd2;
+   border: 1px solid gray;
    text-align: center;
    padding-left:0.2rem;
    padding-right: 0.2rem;
    display: inline-block;
-   border-radius: 1px;
+   border-radius: 3px;
    //do something about these specific values
 }
