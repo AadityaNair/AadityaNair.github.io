@@ -2,7 +2,7 @@
 layout: post
 title: List all commands in any man section
 excerpt: A fun way to discover new commands
-categories: snippets
+tags: snippets linux
 comments: true
 ---
 
