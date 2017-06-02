@@ -1,4 +1,6 @@
 {% for tag in post.tags %}
-    <a class="tags"> {{tag}} </a>
+<a class="tags" href={{ site.baseurl | append: 'tags#' | append: tag }}> 
+    {{tag}} 
+</a>
 {% endfor %} 
 
