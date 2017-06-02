@@ -27,3 +27,8 @@
    border-radius: 3px;
    //do something about these specific values
 }
+
+#tag-name{
+    color: #303030;
+    text-decoration: none;
+}

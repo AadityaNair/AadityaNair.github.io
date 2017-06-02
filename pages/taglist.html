@@ -9,7 +9,7 @@ title: All posts by Tags
     {% assign posts = tag | last %}
 <ul>
     <li><h2>
-            <a id="snippet-name" name={{tag_name}}> {{tag_name}} </a>
+            <a id="tag-name" name={{tag_name}}> {{tag_name}} </a>
     </h2></li>
     <ul>
         {% for post in posts%}
