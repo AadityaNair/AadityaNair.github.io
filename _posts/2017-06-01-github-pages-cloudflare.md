@@ -70,6 +70,14 @@ All your domains can now be managed by cloudflare now. All your requests go thro
 
 Go knock yourself out!!
 
+**Note:** The `dig` tests above will not work after you have configured cloudflare. Cloudflare directs all traffic through them hence the IPs that
+you will see will not be of Github's. Rather, they will belong to Cloudflare.
+
+**Update (5th June, 2017):** Cloudflare DNS _actually_ supports `CNAME` for apex domains.
+![apex-cname]({{site.baseurl}}public/images/cf/apex-cname.png)
+This will be equivalent of setting up an `ALIAS` or `ANAME` records. Refer to this excellent [blog] to see how they do it.
+
 
 [github-pages]: https://pages.github.com
 [Cloudflare]: https://www.cloudflare.com/
+[blog]: https://blog.cloudflare.com/introducing-cname-flattening-rfc-compliant-cnames-at-a-domains-root/
