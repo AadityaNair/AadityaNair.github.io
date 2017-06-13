@@ -15,7 +15,7 @@ title: Home
     <span class="post-date">{{ post.date | date_to_string }} 
         {% include tags.html %}
     </span>
-    {{ post.excerpt }}
+    {{ post.excerpt | markdownify }}
   </div>
   {% endfor %}
 </div>
