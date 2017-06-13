@@ -15,6 +15,14 @@ baseurl:          /
 author:
   name:           'Aaditya M Nair'
 
+defaults:
+    -
+        scope:
+            path: ""
+            type: 'posts'
+        values:
+            comments: true
+
 paginate:         5
 
 gems: 
