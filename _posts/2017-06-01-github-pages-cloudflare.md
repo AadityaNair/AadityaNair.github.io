@@ -46,7 +46,7 @@ Do note that records take around a day to propagate and changes may not be immed
 ### Informing Github of this new domain.
 Now, Github won't directly recognize that you have a domain configured. So what you have to do is to go to repository settings
 and add your domain in the requisite field. In your repository a file called CNAME will be added the contents of which is the configured domain.
-![custom-domain]({{site.baseurl}}public/images/cf/dom.png)
+![custom-domain]({{ "public/images/cf/dom.png" | relative_url }})
 
 That's it. You are done. Your website should be accessible from the custom domain.
 
@@ -59,12 +59,12 @@ through cloudflare. Its pretty easy to do so too.
 ### Setting up the domain in cloudflare.
 Create an account on cloudlfare and go to the _add website_ section. Enter your domain and cloudflare will try to locate all the records associated
 with it and a button to select which records will be transfered to cloudflare.
-![cloudflare domains]({{site.baseurl}}public/images/cf/cf_domlist.png)
+![cloudflare domains]({{ "public/images/cf/cf_domlist.png" | relative_url }})
 
 Continue with the process until you see the new nameservers you have been assigned to. Go to your domain registrar and update the 
 DNS nameservers there. Update the new nameservers there. What this essentially does is tell your registrar that cloudflare will be the
 one managing the records.
-![nameservers]({{site.baseurl}}public/images/cf/nslist.png)
+![nameservers]({{ "public/images/cf/nslist.png" | relative_url }})
 
 All your domains can now be managed by cloudflare now. All your requests go through them too. There is a ton of services there you can play with.
 
@@ -74,7 +74,7 @@ Go knock yourself out!!
 you will see will not be of Github's. Rather, they will belong to Cloudflare.
 
 **Update (5th June, 2017):** Cloudflare DNS _actually_ supports `CNAME` for apex domains.
-![apex-cname]({{site.baseurl}}public/images/cf/apex-cname.png)
+![apex-cname]({{ "public/images/cf/apex-cname.png" | relative_url }})
 This will be equivalent of setting up an `ALIAS` or `ANAME` records. Refer to this excellent [blog] to see how they do it.
 
 
