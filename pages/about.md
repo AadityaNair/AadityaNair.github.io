@@ -19,6 +19,7 @@ To that end, I am working under [Dr. Lalitha Vadlamani] towards optimising MapRe
 
 That was my day job. By night, I am a sysadmin for this institute. It involves our team managing a bunch of our infrastructure
 like mail servers, proxy, local websites, etc. On an average day, we serve about 3000 people. It is a fun job.
+I also interned at Facebook as a Production Engineer. There, I worked with the _Internal Detection_ team on _[Hypershell]_
 
 I have also taken an interest on Machine Learning and have been doing some courses in text processing.
 
@@ -30,5 +31,4 @@ Or it will just contain my opinions and/or cat photos. Who the hell knows?
 
 [IIIT-Hyderabad]: https://iiit.ac.in
 [Dr. Lalitha Vadlamani]: https://faculty.iiit.ac.in/~lalitha.v/
-
-
+[Hypershell]: https://www.slideshare.net/DevopsCon/hypershell-sameen-jalal-facebook-devopsdays-tel-aviv-2016
