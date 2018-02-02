@@ -1,1 +1,4 @@
-Sitemap: https://aadityanair.ml/sitemap.xml
+User-agent: *
+Allow: /
+
+SITEMAP: https://aadityanair.ml/sitemap.xml
