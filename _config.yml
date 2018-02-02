@@ -24,7 +24,7 @@ defaults:
             comments: true
             is_post: true
 
-paginate:         5
+paginate:         4
 
 plugins: 
     - jekyll-paginate
