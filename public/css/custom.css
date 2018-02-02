@@ -15,6 +15,12 @@
     width: 100%;
 }
 
+@media (max-width: 48em), (max-height: 48em){
+    #self-img{
+        display: none;
+    }
+}
+
 .tags{
    background: white;
    color: darkslategray;
