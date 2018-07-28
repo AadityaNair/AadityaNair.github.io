@@ -20,6 +20,11 @@ This brings much needed organisation to the recorded streams.
 This new backend handles all interactions with individual backends.
 1. You can specify in the config which all backends you want. This way you may configure many backends
 but choose to upload to only a few.
+1. Added support to store channel schedules. For each channel, you can now store when which program is 
+going to air. You can also store some metadata related to that program as well.
+1. This enables us to implement one nice feature for jobs. We can specify jobs by the schedule item metadata.
+So during job specification, one can, for example, specify to download all programs with metadata `type:news`
+to download all news airings. Currently, schedule is populated by directly adding elements to the DB.
 1. Lot more test stubs. I wanted to bring the coverage value closer to the actual one
 1. LOTS of bug fixes and consistency issues. A large part of database problems have been sorted out.
 
