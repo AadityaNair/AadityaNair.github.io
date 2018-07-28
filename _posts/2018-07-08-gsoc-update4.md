@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GSOC Update Week 5 and Week 6
+title: GSOC Update Week 7 and Week 8
 excerpt: More or less, finished.
 tags: GSoC
 comments: true
