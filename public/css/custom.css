@@ -12,10 +12,11 @@
 
 #self-img{
     border-radius: 50%;
-    width: 70%;
+    width: 80%;
 }
 #sidebar-about.container{
     text-align: center;
+    width: 80%;
 }
 
 @media (max-width: 48em), (max-height: 48em){
