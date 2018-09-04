@@ -12,7 +12,10 @@
 
 #self-img{
     border-radius: 50%;
-    width: 100%;
+    width: 70%;
+}
+#sidebar-about.container{
+    text-align: center;
 }
 
 @media (max-width: 48em), (max-height: 48em){
@@ -42,4 +45,10 @@
 #tag-name{
     color: #303030;
     text-decoration: none;
+}
+
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
