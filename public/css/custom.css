@@ -12,7 +12,11 @@
 
 #self-img{
     border-radius: 50%;
-    width: 100%;
+    width: 80%;
+}
+#sidebar-about.container{
+    text-align: center;
+    width: 80%;
 }
 
 @media (max-width: 48em), (max-height: 48em){
@@ -30,7 +34,7 @@
    padding-right: 0.2rem;
    display: inline-block;
    border-radius: 3px;
-   //do something about these specific values
+   /*do something about these specific values*/
 }
 
 .tags:hover{
@@ -42,4 +46,30 @@
 #tag-name{
     color: #303030;
     text-decoration: none;
+}
+
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-grow: 1;
+}
+
+ /*Make everything flex*/
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+ /*large screens have sidebars. hence flex grows horizontally*/
+@media (min-width: 48em){
+    body{
+        display: flex;
+        flex-direction: row;
+    }
 }
