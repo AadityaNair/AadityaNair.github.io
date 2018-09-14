@@ -317,6 +317,8 @@ tbody tr:nth-child(odd) th {
 .post-title,
 .post-title a {
   color: #303030;
+  font-family: 'Open Sans';
+  font-style: oblique;
 }
 .page-title,
 .post-title {
@@ -329,6 +331,8 @@ tbody tr:nth-child(odd) th {
   margin-top: -.5rem;
   margin-bottom: 1rem;
   color: #9a9a9a;
+  font-family: 'Arial';
+  font-style: italic;
 }
 
 /* Related posts */

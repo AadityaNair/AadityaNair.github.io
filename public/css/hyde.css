@@ -90,6 +90,7 @@ a.sidebar-nav-item:focus {
 .content {
   padding-top:    4rem;
   padding-bottom: 4rem;
+  font-family: "Montserrat";
 }
 
 @media (min-width: 48em) {
