@@ -63,10 +63,10 @@
 }
 
  /*Make everything flex*/
-body{
-    display: flex;
-    flex-direction: column;
-}
+/*body{*/
+    /*display: flex;*/
+    /*flex-direction: column;*/
+/*}*/
 
  /*large screens have sidebars. hence flex grows horizontally*/
 @media (min-width: 48em){
