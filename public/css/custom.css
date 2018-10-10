@@ -34,8 +34,9 @@
    padding-right: 0.2rem;
    display: inline-block;
    border-radius: 3px;
-   font-family: 'Menlo';
-   /*font-style: normal;*/
+   font-family: sans-serif;
+   font-style: italic;
+   text-transform: lowercase;
    /*do something about these specific values*/
 }
 

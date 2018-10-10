@@ -317,8 +317,8 @@ tbody tr:nth-child(odd) th {
 .post-title,
 .post-title a {
   color: #303030;
-  font-family: 'Open Sans';
-  font-style: oblique;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 900;
 }
 .page-title,
 .post-title {
