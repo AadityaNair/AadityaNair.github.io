@@ -4,6 +4,7 @@ title: Pulse and X for someone else.
 excerpt: Allow GUI and Sound for separate user.
 tags: snippets
 comments: true
+redirect_to: https://amnair.dev/allow-x-pulse
 ---
 
 Both PulseAudio(*audio server*) and X server(*display*) have access controls enabled within it that does not allow anyone other

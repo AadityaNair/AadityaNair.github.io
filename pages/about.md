@@ -3,6 +3,7 @@ layout: page
 title: Aaditya M Nair
 sidebar_name: About Me
 permalink: /about/
+redirect_to: https://amnair.dev/about
 ---
 
 <p></p>
@@ -15,7 +16,7 @@ I am a 23 year old guy born and raised in Bhilai. Currently I am at my college i
 I am pursuing a dual-degree at [IIIT-Hyderabad]. That means that at the end of my 5 year course, I will recieve both
 aMasters and a Bachelors in Computer Science. \\
 As it turns out, my MS is through research, which means that, to get my degree, I have to contribute something *significant* (usually in the form of a research paper) to human knowledge.
-To that end, I am working under [Dr. Lalitha Vadlamani] towards optimising MapReduce. 
+To that end, I am working under [Dr. Lalitha Vadlamani] towards optimising MapReduce.
 
 That was my day job. By night, I am a sysadmin for this institute. It involves our team managing a bunch of our infrastructure
 like mail servers, proxy, local websites, etc. On an average day, we serve about 3000 people. It is a fun job.

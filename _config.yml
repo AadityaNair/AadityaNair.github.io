@@ -26,9 +26,10 @@ defaults:
 
 paginate:         4
 
-plugins: 
+plugins:
     - jekyll-paginate
     - jekyll-sitemap
+    - jekyll-redirect-from
 
 github:
   repo:           https://github.com/AadityaNair

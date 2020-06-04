@@ -4,6 +4,7 @@ title: A tale of two IPs
 excerpt: How I debugged a bad internet connection.
 tags: networks
 comments: true
+redirect_to: https://amnair.dev/ip-collision
 ---
 
 So, this one time, I started to randomly lose packets. No rhyme or reason. Just packets wouldn't go. They would stop for some time
